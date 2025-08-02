@@ -49,7 +49,7 @@ export default function AboutPage() {
                 </div>
                 <div className="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">Time Complexity: O(V + E)</h4>
-                  <h4 className="font-semibold mb-2">Space Complexity: O(V)</h4>
+                  <h4 className="font-semibold mb-2">Space Complexity: O(N)</h4>
                   <p className="text-sm text-gray-600 dark:text-gray-400">Where V is vertices and E is edges</p>
                 </div>
               </CardContent>
